@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RALPH
 - 👀 I’m interested in front-end dev
-- 🌱 I’m currently learning html&css
+- 🌱 I’m fluent in html & css and I'm currently learning JavaScript 
 - 💞️ I’m looking to collaborate on html&css projects
 - 📫 How to reach me on X,@MysticRalph
   
