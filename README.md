@@ -1,7 +1,7 @@
 - 👋 Hi, I’m RALPH
 - 👀 I’m interested in front-end dev
-- 🌱 I’m fluent in html & css and I'm currently learning JavaScript 
-- 💞️ I’m looking to collaborate on html&css projects
+- 🌱 I’m fluent in html, css, JavaScript and I'm currently learning React and Python
+- 💞️ I’m looking to collaborate on html, css and JavaScript projects
 - 📫 How to reach me on X,@MysticRalph
   
 <!---
